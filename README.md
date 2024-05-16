@@ -12,3 +12,10 @@
     - https://www.acmicpc.net/problem/31793
     - https://www.acmicpc.net/problem/31795
     - https://www.acmicpc.net/problem/31796
+ 
+# Interested in..
+- Combinatorial Optimization, Computational Geometry, Graph Theory
+- Linear Algebra
+- Minecraft Spigot
+- Computer Vision (TensorFlow)
+- Competitive Programming
