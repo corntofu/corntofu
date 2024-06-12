@@ -19,3 +19,4 @@
 - Minecraft Spigot
 - Computer Vision (TensorFlow)
 - Competitive Programming
+- Bioinformatics
