@@ -12,6 +12,7 @@
     - https://www.acmicpc.net/problem/31793
     - https://www.acmicpc.net/problem/31795
     - https://www.acmicpc.net/problem/31796
+- 학부연구생: 알고리즘 & 데이터공학 연구실
  
 # Interested in..
 - Combinatorial Optimization, Computational Geometry, Graph Theory
