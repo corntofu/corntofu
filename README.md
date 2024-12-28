@@ -1,9 +1,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cop_ghost)](https://solved.ac/cop_ghost/)
 
 # 활동
-- 2024년도 PNU-PULSE 회장
 - 2022 PNU Coderace 출제
     - https://www.acmicpc.net/problem/25578
+- 2024 PNU-PULSE 동아리 회장
 - 2024 부산대학교 프로그래밍 대회 (PNUPC) 총괄 & 출제
     - https://www.acmicpc.net/problem/31789
     - https://www.acmicpc.net/problem/31790
@@ -23,9 +23,7 @@
     - 2024 ICPC Seoul Regional 75th - JungSangHwa
  
 # Interested in..
-- Combinatorial Optimization, Computational Geometry, Graph Theory
+- Graph Theory, Computer Algorithm
 - Linear Algebra
-- Minecraft Spigot
-- Computer Vision (TensorFlow)
-- Competitive Programming
 - Bioinformatics
+- Artificial Intelligence
