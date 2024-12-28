@@ -2,6 +2,8 @@
 
 # 활동
 - 2024년도 PNU-PULSE 회장
+- 2022 PNU Coderace 출제
+    - https://www.acmicpc.net/problem/25578
 - 2024 부산대학교 프로그래밍 대회 (PNUPC) 총괄 & 출제
     - https://www.acmicpc.net/problem/31789
     - https://www.acmicpc.net/problem/31790
