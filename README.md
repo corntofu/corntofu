@@ -23,7 +23,7 @@
     - 2024 ICPC Seoul Regional 75th - JungSangHwa
  
 # Interested in..
-- Graph Theory, Computer Algorithm
+- Computer Optimization
 - Linear Algebra
 - Bioinformatics
 - Artificial Intelligence
