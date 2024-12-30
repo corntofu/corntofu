@@ -13,7 +13,8 @@
     - https://www.acmicpc.net/problem/31796
 - 학부연구생: 알고리즘 & 데이터공학 연구실
 - 2024 CSE TECH WEEK 프로그래밍 경진 대회 출제
-    - https://drive.google.com/drive/u/0/folders/1G_ojt914NS6j8ZJfuXibiFvRBwgUOd5g
+    - 대회 사이트: https://code.pusan.ac.kr/contest/16/overview
+    - 대회 문제 & 풀이: https://drive.google.com/drive/u/0/folders/1G_ojt914NS6j8ZJfuXibiFvRBwgUOd5g
 
 # 수상 경력
 - Problem Solving
