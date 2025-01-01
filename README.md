@@ -16,7 +16,7 @@
     - 대회 사이트: https://code.pusan.ac.kr/contest/16/overview
     - 대회 문제 & 풀이: https://drive.google.com/drive/u/0/folders/1G_ojt914NS6j8ZJfuXibiFvRBwgUOd5g
 
-# 수상 경력
+# Experience
 - Problem Solving
     - 2023 ICPC Seoul Regional Preliminary Contest 42th (PNU 대학생 프로그래밍 경진대회 1st, 본선 진출) - JustDoIt
     - 2023 ICPC Seoul Regional 61th - JustDoIt
