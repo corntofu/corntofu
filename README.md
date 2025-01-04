@@ -3,7 +3,7 @@
 # Experience
 - 2022 PNU Coderace - Problem setter
     - https://www.acmicpc.net/problem/25578
-- 2024 PNU-PULSE - President of algorithm club in PNUCSE
+- 2024 PNU-PULSE - President of algorithm club in PNU-CSE
 - 2024 부산대학교 프로그래밍 대회 (PNUPC) - Problem setter & Contest executive producer
     - https://www.acmicpc.net/problem/31789
     - https://www.acmicpc.net/problem/31790
