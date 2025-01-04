@@ -15,6 +15,8 @@
 - 2024 CSE TECH WEEK 프로그래밍 경진 대회 - Problem setter
     - 대회 사이트: https://code.pusan.ac.kr/contest/16/overview
     - 대회 문제 & 풀이: https://drive.google.com/drive/u/0/folders/1G_ojt914NS6j8ZJfuXibiFvRBwgUOd5g
+- 2025-1 Computer Algorithm(059)
+    - Teaching Assistant
 
 # Contest participation
 - Problem Solving
