@@ -4,7 +4,7 @@
 - 2022 PNU Coderace - Problem setter
     - https://www.acmicpc.net/problem/25578
 - 2024 PNU-PULSE - President of algorithm club in PNU-CSE
-- 2024 부산대학교 프로그래밍 대회 (PNUPC) - Problem setter & Contest executive producer
+- 2024 부산대학교 프로그래밍 대회 (PNUPC) - Problem setter & Contest coordinator
     - https://www.acmicpc.net/problem/31789
     - https://www.acmicpc.net/problem/31790
     - https://www.acmicpc.net/problem/31792
