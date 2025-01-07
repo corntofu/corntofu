@@ -29,5 +29,5 @@
 # Interested in..
 - Computer Optimization
 - Linear Algebra
-- Bioinformatics
+- Bioscience
 - Artificial Intelligence
