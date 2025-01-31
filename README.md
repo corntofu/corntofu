@@ -16,7 +16,7 @@
     - 대회 사이트: https://code.pusan.ac.kr/contest/16/overview
     - 대회 문제 & 풀이: https://drive.google.com/drive/u/0/folders/1G_ojt914NS6j8ZJfuXibiFvRBwgUOd5g
 - 2025 Spring Semester - Teaching Assistant
-    - Computer Algorithm(059)
+    - Introduction of Computers and Programming
 
 # Contest participation
 - Problem Solving
