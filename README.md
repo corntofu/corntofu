@@ -32,3 +32,4 @@
 - Linear Algebra
 - Bioscience & Neuroscience
 - Artificial Intelligence
+- Information Theory
