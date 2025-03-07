@@ -23,7 +23,8 @@
 - Problem Solving
     - 2023 ICPC Seoul Regional Preliminary Contest 42th (PNU 대학생 프로그래밍 경진대회 1st, 본선 진출) - JustDoIt
     - 2023 ICPC Seoul Regional 61th - JustDoIt
-    - 제 2회 PNU Coding Challenge 대상 (PCCP 1000점 - Python Lv.5)
+    - 제 2회 PNU Coding Challenge 1st place (PCCP 1000점 - Python Lv.5)
+    - 제 3회 PNU Coding Challenge 5th place (PCCP 706점 - C++ Lv.3)
     - 2024 ICPC Seoul Regional Preliminary Contest 60th (PNU 대학생 프로그래밍 경진대회 1st, 본선 진출) - JungSangHwa
     - 2024 ICPC Seoul Regional 75th - JungSangHwa
  
