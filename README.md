@@ -28,6 +28,8 @@
     - 2024 ICPC Seoul Regional Preliminary Contest 60th (PNU 대학생 프로그래밍 경진대회 1st, 본선 진출) - JungSangHwa
     - 2024 ICPC Seoul Regional 75th - JungSangHwa
  
+you can check my ICPC profile in here[https://icpc.global/ICPCID/5T94QUSK3JH4]
+ 
 # Interested in..
 - Computer Optimization
 - Linear Algebra
