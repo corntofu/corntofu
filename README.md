@@ -18,6 +18,10 @@
     - 대회 문제 & 풀이: https://drive.google.com/drive/u/0/folders/1G_ojt914NS6j8ZJfuXibiFvRBwgUOd5g
 - Teaching Assistant
     - 2025 Spring Semester: Introduction of Computers and Programming(001)
+- 2025 부산대학교 프로그래밍 대회 (PNUPC) - Problem setter
+    - https://www.acmicpc.net/problem/33849
+    - https://www.acmicpc.net/problem/33851
+    - https://www.acmicpc.net/problem/33852
 
 # Contest participation
 - Problem Solving
