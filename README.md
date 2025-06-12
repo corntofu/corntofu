@@ -1,6 +1,3 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cop_ghost)](https://solved.ac/cop_ghost/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=null_nullptr)](https://solved.ac/null_nullptr/)
-
 # Experience
 - 2022 PNU Coderace - Problem setter
     - https://www.acmicpc.net/problem/25578
