@@ -15,8 +15,8 @@
 - Teaching Assistant
     - 2025 Spring Semester: Introduction of Computers and Programming(001)
 - Undergraduate Researcher
-    - ALDE LAB (24.01 ~ 25.05)
-    - BCE LAB (25.06 ~ 25.08)
+    - PNU Algorithm & Data Engineering LAB (24.01 ~ 25.05)
+    - PNU Brain & Cognitive Engineering LAB (25.06 ~ 25.08)
 - 2025 부산대학교 프로그래밍 대회 (PNUPC) - Problem setter
     - https://www.acmicpc.net/problem/33849
     - https://www.acmicpc.net/problem/33851
