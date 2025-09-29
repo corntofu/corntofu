@@ -2,4 +2,4 @@
 
 ## Introduction
 
-Notion: https://www.notion.so/My-Page-23040b3213f880038126fdcaafaa50f8?source=copy_link
+Notion: https://www.notion.so/My-Page-23040b3213f880038126fdcaafaa50f8
