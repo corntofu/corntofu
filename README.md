@@ -1,6 +1,6 @@
 [![Atcoder Profile](https://atcoder-badge.kro.kr?id=prof_zoh)](https://atcoder.jp/users/prof_zoh)
 
-[![solved.ac stats v2 streak](https://solvedac-readme-stats.vercel.app/api?handle={cop_ghost}&v=2&streak=true)](https://github.com/kookjd7759/solvedac-readme-stats)
+[![solved.ac stats v2 streak](https://solvedac-readme-stats.vercel.app/api?handle={cop_ghost}&v=2&streak=true)]
 
 ## Introduction
 
